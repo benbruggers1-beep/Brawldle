@@ -1,0 +1,101 @@
+id,name,rarity,class,shape,health
+1,Bull,Rare,Tank,Cone,10600
+2,Belle,Epic,Marksman,Line,5800
+3,Shelly,Starting,Damage Dealer,Cone,7800
+4,Nita,Rare,Damage Dealer,Line,8400
+5,Colt,Rare,Damage Dealer,Line,6200
+6,Brock,Rare,Marksman,Line,6000
+7,El Primo,Rare,Tank,Line,13000
+8,Barley,Rare,Artillery,Circle,5400
+9,Poco,Rare,Support,Cone,8000
+10,Rosa,Rare,Tank,Cone,10800
+11,Jessie,Super-Rare,Controller,Line,6600
+12,Dynamike,Super-Rare,Artillery,Circle,6000
+13,Tick,Super-Rare,Artillery,Circle,4800
+14,8-Bit,Super-Rare,Damage Dealer,Line,10400
+15,Rico,Super-Rare,Damage Dealer,Line,6000
+16,Darryl,Super-Rare,Tank,Cone,11000
+17,Penny,Super-Rare,Artillery,Line,7000
+18,Carl,Super-Rare,Damage Dealer,Line,8400
+19,Jacky,Super-Rare,Tank,Circle,10000
+20,Gus,Super-Rare,Support,Line,6600
+21,Bo,Epic,Marksman,Cone,7600
+22,Piper,Epic,Marksman,Line,5000
+23,Pam,Epic,Support,Cone,10000
+24,Frank,Epic,Tank,Cone,13600
+25,Bibi,Epic,Tank,Cone,10000
+26,Bea,Epic,Marksman,Line,5600
+27,Emz,Epic,Controller,Cone,7800
+28,Lola,Epic,Damage Dealer,Cone,8000
+29,Mico,Mythic,Assassin,Circle,7000
+30,Sandy,Legendary,Controller,Cone,8200
+31,Nani,Epic,Marksman,Irregular,5000
+32,Bonnie,Epic,Marksman,Changes,10000
+33,Sam,Epic,Assassin,Cone,11400
+34,Mortis,Mythic,Assassin,Line,8000
+35,Sprout,Mythic,Artillery,Circle,6400
+36,Chuck,Mythic,Controller,Line,9400
+37,Spike,Legendary,Damage Dealer,Line,6000
+38,Chester,Legendary,Damage Dealer,Changes,7600
+39,Kenji,Legendary,Assassin,Changes,8000
+40,Kaze,Ultra-Legendary,Assassin,Changes,8200
+41,Griff,Epic,Controller,Cone,7400
+42,Shade,Epic,Assassin,Cone,7400
+43,R-T,Mythic,Damage Dealer,Changes,8200
+44,Willow,Mythic,Controller,Circle,6600
+45,Clancy,Mythic,Damage Dealer,Changes,7000
+46,Moe,Mythic,Damage Dealer,Changes,7200
+47,Alli,Mythic,Assassin,Changes,7800
+48,Leon,Legendary,Assassin,Cone,7200
+49,Trunk,Epic,Tank,Circle,10400
+50,Meeple,Epic,Controller,Line,6600
+51,Sirius,Ultra-Legendary,Controller,Irregular,7400
+52,Glowy,Mythic,Support,Line,7800
+53,Gigi,Mythic,Assassin,Circle,8200
+54,Ziggy,Mythic,Controller,Circle,6400
+55,Mina,Mythic,Damage Dealer,Changes,7200
+56,Jae-yong,Mythic,Support,Line,7400
+57,Lumi,Mythic,Damage Dealer,Line,6200
+58,Finx,Mythic,Controller,Irregular,7400
+59,Ollie,Mythic,Tank,Cone,10800
+60,Juju,Mythic,Artillery,Circle,6200
+61,Lily,Mythic,Assassin,Line,8400
+62,Melodie,Mythic,Assassin,Line,7600
+63,Charlie,Mythic,Controller,Line,7400
+64,Doug,Mythic,Support,Circle,10400
+65,Gray,Mythic,Support,Line,6800
+66,Buster,Mythic,Tank,Cone,10000
+67,Otis,Mythic,Controller,Cone,7200
+68,Janet,Mythic,Marksman,Cone,6800
+69,Eve,Mythic,Damage Dealer,Line,6200
+70,Fang,Mythic,Assassin,Line,9000
+71,Buzz,Mythic,Assassin,Cone,10000
+72,Ruffs,Mythic,Support,Irregular,6000
+73,Lou,Mythic,Controller,Line,7000
+74,Squeak,Mythic,Controller,Line,7600
+75,Byron,Mythic,Support,Line,5200
+76,Mr. P,Mythic,Controller,Line,7400
+77,Max,Mythic,Support,Cone,7000
+78,Gene,Mythic,Controller,Line,7600
+79,Tara,Mythic,Damage Dealer,Cone,6600
+80,Berry,Epic,Support,Circle,5200
+81,Angelo,Epic,Marksman,Line,6200
+82,Larry & Lawrie,Epic,Artillery,Circle,6000
+83,Pearl,Epic,Damage Dealer,Cone,8600
+84,Hank,Epic,Tank,Circle,10400
+85,Maisie,Epic,Marksman,Line,8000
+86,Mandy,Epic,Marksman,Line,6000
+87,Ash,Epic,Tank,Line,11800
+88,Colette,Epic,Damage Dealer,Line,7200
+89,Gale,Epic,Controller,Line,8000
+90,Grom,Epic,Artillery,Irregular,6000
+91,Edgar,Epic,Assassin,Line,7400
+92,Pierce,Legendary,Marksman,Line,6000
+93,Surge,Legendary,Damage Dealer,Line,6600
+94,Meg,Legendary,Tank,Line,7400
+95,Amber,Legendary,Controller,Cone,6800
+96,Crow,Legendary,Assassin,Cone,6000
+97,Kit,Legendary,Support,Cone,6200
+98,Cordelius,Legendary,Assassin,Line,7000
+99,Draco,Legendary,Tank,Changes,11200
+100,Stu,Epic,Assassin,Line,7000
